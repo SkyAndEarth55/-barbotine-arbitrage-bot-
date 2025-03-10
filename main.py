@@ -57,3 +57,5 @@ while True:
         printerror(m=f"mode input is incorrect.")
         sys.exit(1)
     i+=1
+
+
