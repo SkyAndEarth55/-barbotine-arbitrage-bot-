@@ -1,2 +1,8 @@
 Hello, World!
 I have changed to new dev.
+
+This file changed to new version.
+
+Also changed.
+
+Another changes.
